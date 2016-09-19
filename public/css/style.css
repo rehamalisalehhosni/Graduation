@@ -1,0 +1,60 @@
+@font-face{font-family: Droid Sans Arabic;	src: url("../fonts/DroidSansArabic.ttf") /* TTF file for CSS3 browsers */}
+header{
+  background: #d8e5eb;
+  border-bottom: solid 3px #007bc2;
+}
+footer{
+  background: #62737a;
+  border-top: solid 3px #62737a;
+  padding: 10px 0 10px 0;
+  text-align: center;
+  color: #fff;
+}
+footer a{
+  color: #fff;
+}
+footer a:hover{
+  color: #eee;
+  text-decoration: none;
+
+}.page{
+  text-align: center;
+  color: #35464d;
+  }.page p{
+  color: #62737a;
+
+  }.page h3{
+  color: #007bc2;
+  padding: 20px 0 20px 0;
+}
+html body{
+  background: #fff;
+  padding: 0px;
+  margin: 0 auto;
+  font: 16px  Droid Sans Arabic, arial, sans-serif;
+}.logo{
+  text-align: center;
+  padding: 20px 0 20px;
+}
+.btn.newbtn{
+  background: none;
+  color: #fff;
+  margin: 10px;
+}
+.content{
+  min-height: 396px;
+}.page h3{
+  color: #008CD2;
+}
+.form_data .form-control{
+}body .row{
+  margin-left: 0px;
+  margin-right: 0px;
+}body .list-inline{
+}.red{
+  color: red;
+}.spn span , .olli {
+  color: #008CD2;
+} .olli  ul{
+  color: #555;
+}
